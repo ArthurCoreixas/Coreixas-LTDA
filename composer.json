@@ -1,0 +1,22 @@
+{
+    "name": "fabricio/coreixas-ltda",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.10"
+    },
+    "require-dev": {
+        "composer/composer": "^2.9"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Fabricio\\CoreixasLtda\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arthur Coreixas",
+            "email": "arthurcoreixass@gmail.com"
+        }
+    ]
+}
